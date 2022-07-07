@@ -1,0 +1,15 @@
+body{
+ text-align: center;  
+ background-image:url("https://i.pinimg.com/736x/07/fc/44/07fc4485ccf94a8baa27e0299e81101d.jpg") ; 
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size:cover;
+ color: white;
+ font-size: 23px;
+}
+#btn1{
+  background-color: blue;  
+  color: black;
+  font-size: 22px;
+  border-radius: 5px;
+}
